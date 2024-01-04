@@ -23,6 +23,7 @@ Para executar o projeto:
 
 2. **Execução:**
    - Execute o arquivo `main.py` para iniciar o identificador de malária.
+   - Utilize o comando `python3 main.py` para iniciar a aplicação.
 
 O modelo treinado tem a capacidade de identificar a presença de malária em imagens de células sanguíneas.
 Você pode testar o modelo carregando qualquer foto de célula no mesmo formato usado no treinamento, e a IA irá detectar se há ou não malária.
